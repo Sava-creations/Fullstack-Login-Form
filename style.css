@@ -134,5 +134,5 @@ button:hover{
     color:blue;
 }
 #signin {
-    display: none;
+    display: none;                                                                                          /*Sign-In form is hidden */
 }
